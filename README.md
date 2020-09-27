@@ -64,10 +64,17 @@ Here are some ideas to get you started:
 ---
 
 <details>
+  
   <summary>:zap: Github Stats</summary>
-
+  <a href="https://github.com/DwiWahyuEffendi/DwiWahyuEffendi">
+    <img align="center" src="https://github-readme-stats.dwiwahyueffendi.vercel.app/top-langs/?username=DwiWahyuEffendi&hide=javascript&theme=react" />
+  </a>
+  <a href="https://github.com/DwiWahyuEffendi/DwiWahyuEffendi">
+    <img align="center" src="https://github-readme-stats.dwiwahyueffendi.vercel.app/api?username=DwiWahyuEffendu&show_icons=true&theme=react&line_height=20" />
+  </a> 
+  <!--
   <img align="left" alt="DwiWahyuEffendi's Github Stats" src="https://github-readme-stats.dwiwahyueffendi.vercel.app/api?username=dwiwahyueffendi&show_icons=true&hide_border=true" />
-
+-->
 </details>
 
 <!--
