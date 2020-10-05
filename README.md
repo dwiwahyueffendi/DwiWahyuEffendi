@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   
   <summary>:zap: Most Used Languages</summary>
   <a href="https://github.com/DwiWahyuEffendi/DwiWahyuEffendi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiWahyuEffendi&langs_count=10)](https://github.com/DwiWahyuEffendi/github-readme-stats&theme=react&line_height=20"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiWahyuEffendi&langs_count=7)](https://github.com/DwiWahyuEffendi/github-readme-stats&theme=react&line_height=20"/>
   </a><br>
 </details>
 <details>
