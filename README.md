@@ -65,11 +65,12 @@ Here are some ideas to get you started:
 
 <details>
   
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Most Used Languages</summary>
   <a href="https://github.com/DwiWahyuEffendi/DwiWahyuEffendi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiWahyuEffendi&langs_count=10)](https://github.com/DwiWahyuEffendi/github-readme-stats&theme=react&line_height=20"/>
   </a>
   <br>
+<summary>:zap: Github Stats</summary>
   <a href="https://github.com/DwiWahyuEffendi/DwiWahyuEffendi">
     <img align="center" src="https://github-readme-stats.dwiwahyueffendi.vercel.app/api?username=DwiWahyuEffendi&show_icons=true&theme=react&line_height=20" />
   </a> 
