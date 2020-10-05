@@ -68,16 +68,17 @@ Here are some ideas to get you started:
   <summary>:zap: Most Used Languages</summary>
   <a href="https://github.com/DwiWahyuEffendi/DwiWahyuEffendi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiWahyuEffendi&langs_count=10)](https://github.com/DwiWahyuEffendi/github-readme-stats&theme=react&line_height=20"/>
-  </a>
-  <br>
+  </a><br>
+</details>
+<details>
 <summary>:zap: Github Stats</summary>
   <a href="https://github.com/DwiWahyuEffendi/DwiWahyuEffendi">
     <img align="center" src="https://github-readme-stats.dwiwahyueffendi.vercel.app/api?username=DwiWahyuEffendi&show_icons=true&theme=react&line_height=20" />
-  </a> 
+  </a>
+</details>
   <!--
   <img align="left" alt="DwiWahyuEffendi's Github Stats" src="https://github-readme-stats.dwiwahyueffendi.vercel.app/api?username=dwiwahyueffendi&show_icons=true&hide_border=true" />
 -->
-</details>
 
 <!--
 [website]: https://codeSTACKr.com
