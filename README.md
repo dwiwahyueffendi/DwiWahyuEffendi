@@ -1,5 +1,9 @@
-### Hi there, I'm Wahyu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### <h1>Hi I'm Wahyu</h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+Currently Computer Science student at [UPN "Veteran" East Java](https://upnjatim.ac.id)
 <!--
+
+### My Tech Stack
+
 **DwiWahyuEffendi/DwiWahyuEffendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -63,19 +67,11 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  
-  <summary>:zap: Most Used Languages</summary>
-  <a href="https://github.com/DwiWahyuEffendi/DwiWahyuEffendi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiWahyuEffendi&langs_count=10)](https://github.com/DwiWahyuEffendi/github-readme-stats&theme=react&line_height=20"/>
-  </a><br>
-</details>
-<details>
-<summary>:zap: Github Stats</summary>
-  <a href="https://github.com/DwiWahyuEffendi/DwiWahyuEffendi">
-    <img align="center" src="https://github-readme-stats.dwiwahyueffendi.vercel.app/api?username=DwiWahyuEffendi&show_icons=true&theme=react&line_height=20" />
-  </a>
-</details>
+
+<a href="https://github.com/DwiWahyuEffendi/DwiWahyuEffendi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiWahyuEffendi&count_private=true&langs_count=10)(https://github.com/DwiWahyuEffendi/github-readme-stats&theme=react&line_height=20)"/>
+  <img align="center" src="https://github-readme-stats.dwiwahyueffendi.vercel.app/api?username=DwiWahyuEffendi&count_private=true&show_icons=true&theme=react&line_height=20"/>
+</a>
   <!--
   <img align="left" alt="DwiWahyuEffendi's Github Stats" src="https://github-readme-stats.dwiwahyueffendi.vercel.app/api?username=dwiwahyueffendi&show_icons=true&hide_border=true" />
 -->
