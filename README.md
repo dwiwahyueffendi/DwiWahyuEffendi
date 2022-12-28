@@ -23,10 +23,19 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwiwahyueffendi&show_icons=true&locale=en&layout=compact" alt="dwiwahyueffendi" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwiwahyueffendi&show_icons=true&locale=en" alt="dwiwahyueffendi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwiwahyueffendi&" alt="dwiwahyueffendi" /></p>
+<!--
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwiwahyueffendi&" alt="dwiwahyueffendi" /></p>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dwiwahyueffendi"/></a>
+-->
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=dwiwahyueffendi&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h1>
- <! -- Link Generate Readme : //https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+ <! -- 
+ Link Streak Readme : https://github.com/DenverCoder1/github-readme-streak-stats/edit/main/README.md
+ Link Generate Readme : //https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+ -->
 </h1>
